@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <!-- Homepage / Main Calculator -->
+    <url>
+        <loc>https://heloccalculator.click/</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Index page (same as homepage) -->
+    <url>
+        <loc>https://heloccalculator.click/index.html</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Privacy Policy -->
+    <url>
+        <loc>https://heloccalculator.click/privacy.html</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Terms of Service -->
+    <url>
+        <loc>https://heloccalculator.click/terms.html</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.3</priority>
+    </url>
+
+    <!-- Calculator Section -->
+    <url>
+        <loc>https://heloccalculator.click/#calculator</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+
+    <!-- How It Works Section -->
+    <url>
+        <loc>https://heloccalculator.click/#how-it-works</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- Comparison Section -->
+    <url>
+        <loc>https://heloccalculator.click/#comparison</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+    <!-- FAQ Section -->
+    <url>
+        <loc>https://heloccalculator.click/#faq</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Guide Section -->
+    <url>
+        <loc>https://heloccalculator.click/#guide</loc>
+        <lastmod>2025-01-06</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+
+</urlset>
